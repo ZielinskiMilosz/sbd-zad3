@@ -1,0 +1,5 @@
+1.	SELECT MIN(price) from products;
+2.	SELECT MAX(price) from products;
+3.	SELECT COUNT(id) from products;
+4.	SELECT COUNT(id) from customers;
+5.	
