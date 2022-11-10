@@ -1,0 +1,9 @@
+1.	SELECT MIN(price) from products;
+2.	SELECT MAX(price) from products;
+3.	SELECT COUNT(id) from products;
+4.	SELECT COUNT(id) from customers;
+5.	
+6.*	SELECT SUM(id) FROM products WHERE category_id LIKE 1;
+	SELECT AVG(price) FROM products WHERE category_id LIKE 1;
+7.	SELECT SUM(price) From products WHERE category_id LIKE 2;
+8.	SELECT MAx(price) FROM products where category_id like 1;
